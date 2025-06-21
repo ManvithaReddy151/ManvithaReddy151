@@ -1,6 +1,6 @@
   Hi there 👋
 
-🔭 I’m currently a Product Manager at an early stage startup
+🔭 I’m currently a Product Manager at a stage startup
 
 🌱 I’m working on projects to improve my programming skills
 
